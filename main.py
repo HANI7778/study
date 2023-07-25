@@ -1,7 +1,7 @@
 from pyrogram import Client, filters
 
-API_ID=""
-API_HASH=""
+API_ID="28347795"
+API_HASH="ca929cb8221a920471a3e530c8d72ca9"
 BOT_TOKEN=""
 
 
